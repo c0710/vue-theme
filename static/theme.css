@@ -1,0 +1,12 @@
+.hello-title {
+  background-color: '{primary}' !important;
+}
+
+.hello-subtitle {
+  background-color: "{secondary}" !important;
+}
+
+.hello-list {
+  color: {thirdly} !important;
+}
+
